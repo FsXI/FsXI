@@ -9,8 +9,6 @@
 <img align="right" src="https://github.com/FsXI/FsXI/blob/master/Developer.gif"/>
 
 
-## Java天下无敌奥利给~
-
 
 ## 我的仓库stats~ :computer: 
 ![FsXI's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalrifat&show_icons=true)
