@@ -11,7 +11,7 @@
 
 
 ## 我的仓库Stats :computer: 
-![FsXI's github stats](https://github-readme-stats.vercel.app/api)
+![FsXI's github stats](https://github-readme-stats.vercel.app/api?username=FsXI&show_icons=true)
 
 
 <p>
