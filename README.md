@@ -6,7 +6,7 @@
 	- Java
 	- Spring全家桶
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" src="https://github.com/FsXI/FsXI/blob/master/Developer.gif"/>
 
 - **Web 开发**
 	- HTML, CSS and Javascript :white_check_mark:
