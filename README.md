@@ -23,8 +23,11 @@
   <br/>
 
 
-  <br/>
-![FsXI's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalrifat&show_icons=true)
+
+
+
+![rifat's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalrifat&show_icons=true)
+
 
 <p>
 
