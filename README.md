@@ -10,7 +10,7 @@
 
 
 
-## 我的仓库stats~ :computer: 
+## 我的仓库Stats :computer: 
 ![FsXI's github stats](https://github-readme-stats.vercel.app/api?username=abdullahalrifat&show_icons=true)
 
 
