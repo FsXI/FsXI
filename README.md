@@ -18,7 +18,7 @@
   
 
 
-## Java天下无敌奥利给~ :computer: 
+## Java天下无敌奥利给~
 <br/>
 
 ## 我的仓库stats~ :computer: 
@@ -28,4 +28,4 @@
 <p>
 
 
-⭐️ From [rajput2107](https://github.com/FsXI)
+⭐️ From [FsXI](https://github.com/FsXI)
