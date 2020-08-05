@@ -1,5 +1,5 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-## <em>一直追向太阳跑的嘻嘻☀️</em>
+## 一直追向太阳跑的嘻嘻☀️
  <br/>
 ## 我？ :computer: 
 - **我爱？**
